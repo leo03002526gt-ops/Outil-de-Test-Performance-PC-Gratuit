@@ -1,6 +1,6 @@
 # Outil Test Performance PC Gratuit
 
-Ce script Python permet de **tester les performances de votre PC** (CPU et RAM).
+Ce script gratuit vous permet de mesurer la **performance de votre ordinateur**, tester la vitesse du processeur, la mémoire, et la stabilité du système. Idéal pour les utilisateurs sous **Windows** ou pour ceux qui veulent optimiser leur machine, ce **outil de benchmark** vous aide à identifier les points faibles et à améliorer la vitesse de votre PC.
 
 ## Installation
 1. Installer Python (>=3.8)
