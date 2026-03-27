@@ -17,4 +17,7 @@ Ce script Python permet de **tester les performances de votre PC** (CPU et RAM).
 
 
 Pour un guide complet → (https://www.graiet.tn/)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2367f3cf600414fb6f097fc8905128b10067832a
