@@ -9,7 +9,6 @@ Ce script gratuit vous permet de mesurer la **performance de votre ordinateur**,
 ## Usage
 `python pc_performance_test.py`
 
-## Keywords SEO
 - outil test performance pc gratuit
 - pc performance test
 - monitor cpu usage
